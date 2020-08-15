@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20532" started-at="2020-08-15T13:00:46 EDT" finished-at="2020-08-15T13:01:07 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20532" started-at="2020-08-15T13:00:46 EDT" finished-at="2020-08-15T13:01:07 EDT">
+      <class name="crmTest.LoginTest">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:crmTest.LoginTest@166fa74d]" name="readConfig" is-config="true" duration-ms="14" started-at="2020-08-15T13:00:46 EDT" finished-at="2020-08-15T13:00:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:crmTest.LoginTest@166fa74d]" name="startbrowser" is-config="true" duration-ms="7112" started-at="2020-08-15T13:00:46 EDT" finished-at="2020-08-15T13:00:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method status="PASS" signature="logInTest1()[pri:1, instance:crmTest.LoginTest@166fa74d]" name="logInTest1" duration-ms="1844" started-at="2020-08-15T13:00:53 EDT" finished-at="2020-08-15T13:00:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest1 -->
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:crmTest.LoginTest@166fa74d]" name="startbrowser" is-config="true" duration-ms="6676" started-at="2020-08-15T13:00:55 EDT" finished-at="2020-08-15T13:01:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method status="PASS" signature="addCustomersTest()[pri:2, instance:crmTest.LoginTest@166fa74d]" name="addCustomersTest" duration-ms="4836" started-at="2020-08-15T13:01:02 EDT" finished-at="2020-08-15T13:01:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomersTest -->
+      </class> <!-- crmTest.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
